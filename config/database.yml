@@ -49,5 +49,3 @@ test:
 production:
   <<: *default
   database: sample_postgres_production
-  username: heroku_practice
-  password: password
